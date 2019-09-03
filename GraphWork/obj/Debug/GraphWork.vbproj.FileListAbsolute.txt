@@ -1,0 +1,13 @@
+C:\Users\Сергей\documents\visual studio 2010\Projects\GraphWork\GraphWork\bin\Debug\GraphWork.dll
+C:\Users\Сергей\documents\visual studio 2010\Projects\GraphWork\GraphWork\bin\Debug\GraphWork.pdb
+C:\Users\Сергей\documents\visual studio 2010\Projects\GraphWork\GraphWork\bin\Debug\GraphWork.xml
+C:\Users\Сергей\documents\visual studio 2010\Projects\GraphWork\GraphWork\bin\Debug\GraphWork.dll.manifest
+C:\Users\Сергей\documents\visual studio 2010\Projects\GraphWork\GraphWork\bin\Debug\GraphWork.vsto
+C:\Users\Сергей\documents\visual studio 2010\Projects\GraphWork\GraphWork\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\Сергей\documents\visual studio 2010\Projects\GraphWork\GraphWork\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\Users\Сергей\documents\visual studio 2010\Projects\GraphWork\GraphWork\obj\Debug\GraphWork.Lenta.resources
+C:\Users\Сергей\documents\visual studio 2010\Projects\GraphWork\GraphWork\obj\Debug\GraphWork.Resources.resources
+C:\Users\Сергей\documents\visual studio 2010\Projects\GraphWork\GraphWork\obj\Debug\GraphWork.vbproj.GenerateResource.Cache
+C:\Users\Сергей\documents\visual studio 2010\Projects\GraphWork\GraphWork\obj\Debug\GraphWork.dll
+C:\Users\Сергей\documents\visual studio 2010\Projects\GraphWork\GraphWork\obj\Debug\GraphWork.xml
+C:\Users\Сергей\documents\visual studio 2010\Projects\GraphWork\GraphWork\obj\Debug\GraphWork.pdb

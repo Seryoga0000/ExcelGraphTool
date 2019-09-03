@@ -1,0 +1,13 @@
+C:\Users\Сергей\Documents\Visual Studio 2010\Projects\GraphWork\GraphWork\bin\Release\GraphWork.dll
+C:\Users\Сергей\Documents\Visual Studio 2010\Projects\GraphWork\GraphWork\bin\Release\GraphWork.pdb
+C:\Users\Сергей\Documents\Visual Studio 2010\Projects\GraphWork\GraphWork\bin\Release\GraphWork.xml
+C:\Users\Сергей\Documents\Visual Studio 2010\Projects\GraphWork\GraphWork\bin\Release\GraphWork.dll.manifest
+C:\Users\Сергей\Documents\Visual Studio 2010\Projects\GraphWork\GraphWork\bin\Release\GraphWork.vsto
+C:\Users\Сергей\Documents\Visual Studio 2010\Projects\GraphWork\GraphWork\bin\Release\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\Сергей\Documents\Visual Studio 2010\Projects\GraphWork\GraphWork\bin\Release\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\Users\Сергей\Documents\Visual Studio 2010\Projects\GraphWork\GraphWork\obj\Release\GraphWork.Lenta.resources
+C:\Users\Сергей\Documents\Visual Studio 2010\Projects\GraphWork\GraphWork\obj\Release\GraphWork.Resources.resources
+C:\Users\Сергей\Documents\Visual Studio 2010\Projects\GraphWork\GraphWork\obj\Release\GraphWork.vbproj.GenerateResource.Cache
+C:\Users\Сергей\Documents\Visual Studio 2010\Projects\GraphWork\GraphWork\obj\Release\GraphWork.dll
+C:\Users\Сергей\Documents\Visual Studio 2010\Projects\GraphWork\GraphWork\obj\Release\GraphWork.xml
+C:\Users\Сергей\Documents\Visual Studio 2010\Projects\GraphWork\GraphWork\obj\Release\GraphWork.pdb

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+GraphWork
+</name>
+</assembly>
+<members>
+<member name="M:GraphWork.ThisAddIn.#ctor(Microsoft.Office.Tools.Excel.ApplicationFactory,System.IServiceProvider)">
+</member><member name="M:GraphWork.ThisAddIn.Initialize">
+</member><member name="M:GraphWork.ThisAddIn.FinishInitialization">
+</member><member name="M:GraphWork.ThisAddIn.InitializeDataBindings">
+</member><member name="M:GraphWork.ThisAddIn.InitializeCachedData">
+</member><member name="M:GraphWork.ThisAddIn.InitializeData">
+</member><member name="M:GraphWork.ThisAddIn.BindToData">
+</member><member name="M:GraphWork.ThisAddIn.StartCaching(System.String)">
+</member><member name="M:GraphWork.ThisAddIn.StopCaching(System.String)">
+</member><member name="M:GraphWork.ThisAddIn.IsCached(System.String)">
+</member><member name="M:GraphWork.ThisAddIn.BeginInitialization">
+</member><member name="M:GraphWork.ThisAddIn.EndInitialization">
+</member><member name="M:GraphWork.ThisAddIn.InitializeControls">
+</member><member name="M:GraphWork.ThisAddIn.InitializeComponents">
+</member><member name="M:GraphWork.ThisAddIn.NeedsFill(System.String)">
+</member><member name="M:GraphWork.ThisAddIn.OnShutdown">
+</member><member name="T:GraphWork.ThisAddIn">
+</member><member name="M:GraphWork.Globals.#ctor">
+</member><member name="T:GraphWork.Globals">
+</member><member name="M:GraphWork.ThisRibbonCollection.#ctor(Microsoft.Office.Tools.Ribbon.RibbonFactory)">
+</member><member name="T:GraphWork.ThisRibbonCollection">
+</member><member name="P:GraphWork.My.Resources.Resources.ResourceManager">
+	<summary>
+  Возвращает кэшированный экземпляр ResourceManager, использованный этим классом.
+</summary>
+</member><member name="P:GraphWork.My.Resources.Resources.Culture">
+	<summary>
+  Перезаписывает свойство CurrentUICulture текущего потока для всех
+  обращений к ресурсу с помощью этого класса ресурса со строгой типизацией.
+</summary>
+</member><member name="T:GraphWork.My.Resources.Resources">
+	<summary>
+  Класс ресурса со строгой типизацией для поиска локализованных строк и т.д.
+</summary>
+</member>
+</members>
+</doc>

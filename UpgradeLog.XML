@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="GraphWork">
+</Property><Property Name="Файл решения" Value="C:\Users\Сергей\documents\visual studio 2010\Projects\GraphWork\GraphWork.sln">
+</Property><Property Name="Файл параметров пользователя" Value="C:\Users\Сергей\documents\visual studio 2010\Projects\GraphWork\GraphWork.suo">
+</Property><Property Name="Date" Value="11 сентября 2017 г.">
+</Property><Property Name="Time" Value="16:13">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="GraphWork.sln" Description="Успешно создана резервная копия файла C:\Users\Сергей\documents\visual studio 2010\Projects\GraphWork\Backup\GraphWork.sln">
+</Event><Event ErrorLevel="0" Project="" Source="GraphWork.suo" Description="Успешно создана резервная копия файла C:\Users\Сергей\documents\visual studio 2010\Projects\GraphWork\Backup\GraphWork.suo">
+</Event><Event ErrorLevel="0" Project="GraphWork" Source="GraphWork\GraphWork.vbproj" Description="Успешно создана резервная копия файла проекта: C:\Users\Сергей\documents\visual studio 2010\Projects\GraphWork\Backup\GraphWork\GraphWork.vbproj">
+</Event><Event ErrorLevel="0" Project="GraphWork" Source="GraphWork\GraphWork.vbproj.user" Description="Резервная копия проекта успешно создана как C:\Users\Сергей\documents\visual studio 2010\Projects\GraphWork\Backup\GraphWork\GraphWork.vbproj.user">
+</Event><Event ErrorLevel="0" Project="GraphWork" Source="GraphWork\Declaration.vb" Description="Успешно создана резервная копия файла C:\Users\Сергей\documents\visual studio 2010\Projects\GraphWork\Backup\GraphWork\Declaration.vb">
+</Event><Event ErrorLevel="0" Project="GraphWork" Source="GraphWork\Lenta.designer.vb" Description="Успешно создана резервная копия файла C:\Users\Сергей\documents\visual studio 2010\Projects\GraphWork\Backup\GraphWork\Lenta.designer.vb">
+</Event><Event ErrorLevel="0" Project="GraphWork" Source="GraphWork\Lenta.vb" Description="Успешно создана резервная копия файла C:\Users\Сергей\documents\visual studio 2010\Projects\GraphWork\Backup\GraphWork\Lenta.vb">
+</Event><Event ErrorLevel="0" Project="GraphWork" Source="GraphWork\Mac.vb" Description="Успешно создана резервная копия файла C:\Users\Сергей\documents\visual studio 2010\Projects\GraphWork\Backup\GraphWork\Mac.vb">
+</Event><Event ErrorLevel="0" Project="GraphWork" Source="GraphWork\Module1.vb" Description="Успешно создана резервная копия файла C:\Users\Сергей\documents\visual studio 2010\Projects\GraphWork\Backup\GraphWork\Module1.vb">
+</Event><Event ErrorLevel="0" Project="GraphWork" Source="GraphWork\ThisAddIn.vb" Description="Успешно создана резервная копия файла C:\Users\Сергей\documents\visual studio 2010\Projects\GraphWork\Backup\GraphWork\ThisAddIn.vb">
+</Event><Event ErrorLevel="0" Project="GraphWork" Source="GraphWork\ThisAddIn.Designer.vb" Description="Успешно создана резервная копия файла C:\Users\Сергей\documents\visual studio 2010\Projects\GraphWork\Backup\GraphWork\ThisAddIn.Designer.vb">
+</Event><Event ErrorLevel="0" Project="GraphWork" Source="GraphWork\My Project\AssemblyInfo.vb" Description="Успешно создана резервная копия файла C:\Users\Сергей\documents\visual studio 2010\Projects\GraphWork\Backup\GraphWork\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="GraphWork" Source="GraphWork\My Project\Resources.Designer.vb" Description="Успешно создана резервная копия файла C:\Users\Сергей\documents\visual studio 2010\Projects\GraphWork\Backup\GraphWork\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="GraphWork" Source="GraphWork\My Project\Settings.Designer.vb" Description="Успешно создана резервная копия файла C:\Users\Сергей\documents\visual studio 2010\Projects\GraphWork\Backup\GraphWork\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="GraphWork" Source="GraphWork\GraphWork_TemporaryKey.pfx" Description="Успешно создана резервная копия файла C:\Users\Сергей\documents\visual studio 2010\Projects\GraphWork\Backup\GraphWork\GraphWork_TemporaryKey.pfx">
+</Event><Event ErrorLevel="0" Project="GraphWork" Source="GraphWork\ThisAddIn.Designer.xml" Description="Успешно создана резервная копия файла C:\Users\Сергей\documents\visual studio 2010\Projects\GraphWork\Backup\GraphWork\ThisAddIn.Designer.xml">
+</Event><Event ErrorLevel="0" Project="GraphWork" Source="GraphWork\My Project\Settings.settings" Description="Успешно создана резервная копия файла C:\Users\Сергей\documents\visual studio 2010\Projects\GraphWork\Backup\GraphWork\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="GraphWork" Source="GraphWork\Lenta.resx" Description="Успешно создана резервная копия файла C:\Users\Сергей\documents\visual studio 2010\Projects\GraphWork\Backup\GraphWork\Lenta.resx">
+</Event><Event ErrorLevel="0" Project="GraphWork" Source="GraphWork\My Project\Resources.resx" Description="Успешно создана резервная копия файла C:\Users\Сергей\documents\visual studio 2010\Projects\GraphWork\Backup\GraphWork\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="GraphWork" Source="GraphWork\GraphWork.vbproj" Description="Проект успешно преобразован">
+</Event><Event ErrorLevel="3" Project="GraphWork" Source="GraphWork\GraphWork.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="GraphWork.sln" Description="Для этого файла не требуется преобразование.">
+</Event><Event ErrorLevel="3" Project="" Source="GraphWork.sln" Description="Преобразование не требуется">
+</Event><Event ErrorLevel="0" Project="GraphWork" Source="GraphWork\GraphWork.vbproj" Description="Сканирование завершено: обновление файлов проекта не требуется.">
+</Event></UpgradeLog>
